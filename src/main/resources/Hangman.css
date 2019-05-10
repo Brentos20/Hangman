@@ -1,0 +1,10 @@
+.root{
+    -fx-background-color: white;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.titlescreen{
+    -fx-background-image: url("/images/titlebackground.png");
+}
+
